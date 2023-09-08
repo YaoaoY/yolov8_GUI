@@ -1,0 +1,17 @@
+{
+  "iou": 0.35,    // 交互比
+  "conf": 0.59,   // 置信度
+  "rate": 0.01,   // 延时
+  "save_res": true,    // 是否保存 结果
+  "save_txt": true,    // 是否保存 标签
+  "save_res_path": "pre_result",    // 保存路径
+  "save_txt_path": "pre_labels",    // 保存路径
+  "models_path": "models",    // 模型存放路径
+  "open_fold": "D:/",         // 打开文件夹路径
+  "show_trace": false,        // 是否显示轨迹
+  "show_labels": true,        // 是否显示标签
+  "rtsp_ip": "rtsp://127.0.0.1:554/live/test",      // RTSP路径
+  "car_id": "1",              // 追踪 id
+  "car_threshold": 8          // 车辆阈值
+}
+

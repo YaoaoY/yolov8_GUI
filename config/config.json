@@ -1,0 +1,16 @@
+{
+  "iou": 0.35,
+  "conf": 0.59,
+  "rate": 0.01,
+  "save_res": true,
+  "save_txt": true,
+  "save_res_path": "pre_result",
+  "save_txt_path": "pre_labels",
+  "models_path": "models",
+  "open_fold": "D:/",
+  "show_trace": false,
+  "show_labels": true,
+  "rtsp_ip": "rtsp://127.0.0.1:554/live/test",
+  "car_id": "1",
+  "car_threshold": 8
+}
